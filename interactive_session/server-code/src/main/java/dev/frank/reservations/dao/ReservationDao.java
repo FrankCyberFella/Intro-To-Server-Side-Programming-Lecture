@@ -1,7 +1,7 @@
-package com.frank.reservations.dao;
+package dev.frank.reservations.dao;
 
 import java.util.List;
-import com.frank.reservations.model.Reservation;
+import dev.frank.reservations.model.Reservation;
 
 public interface ReservationDao {
 

@@ -1,7 +1,7 @@
-package com.frank.reservations.controllers;
+package dev.frank.reservations.controllers;
 
-import com.frank.reservations.dao.HotelDao;
-import com.frank.reservations.model.Hotel;
+import dev.frank.reservations.dao.HotelDao;
+import dev.frank.reservations.model.Hotel;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

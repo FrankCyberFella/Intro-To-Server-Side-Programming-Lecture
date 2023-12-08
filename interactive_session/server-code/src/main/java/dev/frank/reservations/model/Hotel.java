@@ -1,4 +1,4 @@
-package com.frank.reservations.model;
+package dev.frank.reservations.model;
 
 public class Hotel {
 

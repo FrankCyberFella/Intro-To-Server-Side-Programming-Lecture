@@ -1,7 +1,7 @@
-package com.frank.reservations.dao;
+package dev.frank.reservations.dao;
 
-import com.frank.reservations.model.Address;
-import com.frank.reservations.model.Hotel;
+import dev.frank.reservations.model.Address;
+import dev.frank.reservations.model.Hotel;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;

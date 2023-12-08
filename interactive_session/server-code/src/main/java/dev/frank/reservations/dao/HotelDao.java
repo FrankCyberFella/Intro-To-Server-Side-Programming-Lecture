@@ -1,6 +1,6 @@
-package com.frank.reservations.dao;
+package dev.frank.reservations.dao;
 
-import com.frank.reservations.model.Hotel;
+import dev.frank.reservations.model.Hotel;
 
 import java.util.List;
 

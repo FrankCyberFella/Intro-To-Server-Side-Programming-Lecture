@@ -1,11 +1,11 @@
-package com.frank.reservations.dao;
+package dev.frank.reservations.dao;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.frank.reservations.model.Hotel;
-import com.frank.reservations.model.Reservation;
+import dev.frank.reservations.model.Hotel;
+import dev.frank.reservations.model.Reservation;
 import org.springframework.stereotype.Component;
 
 @Component

@@ -1,4 +1,4 @@
-package com.frank.reservations;
+package dev.frank.reservations;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HotelReservationsApplicationServer {
 
     public static void main(String[] args) {
-        SpringApplication.run(com.frank.reservations.HotelReservationsApplicationServer.class, args);
+        SpringApplication.run(HotelReservationsApplicationServer.class, args);
     }
 
 }
